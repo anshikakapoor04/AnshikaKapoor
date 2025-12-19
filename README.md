@@ -13,4 +13,4 @@ SQL • Power BI • DAX • Excel
 
 ### Connect
 - [LinkedIn](https://www.linkedin.com/in/anshika-kapoor-2a889a295)
-- [Email](anshikakapoor04 @gmail.com)
+- [Email](anshikakapoor04@gmail.com)
