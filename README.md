@@ -1,6 +1,6 @@
 Hi, I’m Anshika 👋
 
-Aspiring Data Analyst with 4+ years of experience in survey and research analytics, working extensively with Media, Customer, and HR datasets. I focus on transforming raw, high-volume survey data into clean, consistent insights and stakeholder-ready reporting.
+Data Analyst with 4+ years of experience in survey and research analytics, working extensively with Media, Customer, and HR datasets. I focus on transforming raw, high-volume survey data into clean, consistent insights and stakeholder-ready reporting.
 
 ### What I work on
 - Analyzing survey and research data across different domains
